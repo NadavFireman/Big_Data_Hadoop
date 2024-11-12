@@ -1,0 +1,48 @@
+data: {name: chararray,ID: int,buy1: float,buy2: float,buy3: float,buy4: float,buy5: float,buy6: float,buy7: float,buy8: float,buy9: float,buy10: float,text1: chararray,text2: chararray,text3: chararray,text4hararray: bytearray,text5chararray: bytearray}
+********************************************** data  ***********************************
+data1: {name: chararray,ID: int,SUM: float,AVG: float}
+********************************************** data1  ***********************************
+data2: {name: chararray,ID: int,SUM: float,AVG: float,chararray}
+********************************************** data2  ***********************************
+data3: {name: chararray,ID: int,SUM: float,AVG: float,chararray}
+********************************************** data3  ***********************************
+(FGFZV31,3531031,69543.0,6954.3,High average)
+(NBSX8,980048,67865.0,6786.5,High average)
+(ZEAXH17,1476817,67053.0,6705.3,High average)
+(LFJNC5,990525,63787.0,6378.7,High average)
+(OKXTO33,4957333,63469.0,6346.9,High average)
+(EKJS4,223074,60718.0,6071.8,High average)
+(BSQZX7,450047,58670.0,5867.0,High average)
+(EDVQ26,4722426,58098.0,5809.8,High average)
+(ZXTUR1,712361,57218.0,5721.8,High average)
+(NDTQ16,6310416,56815.0,5681.5,High average)
+(IQYZW35,4545035,56081.0,5608.1,High average)
+(JDDZ2,644582,55425.0,5542.5,High average)
+(YQRK34,6813334,54651.0,5465.1,High average)
+(OLRPZ27,6728227,54377.0,5437.7,High average)
+(GSQOF23,6995123,54292.0,5429.2,High average)
+(MLET24,2328224,54039.0,5403.9,High average)
+(KDDHG39,2707439,53717.0,5371.7,High average)
+(PCRIF11,1980011,53495.0,5349.5,High average)
+(NEMO38,6121538,52244.0,5224.4,High average)
+(GTZUG3,400213,52037.0,5203.7,High average)
+(DLCUS13,4747313,52021.0,5202.1,High average)
+(AZDE32,4119932,51173.0,5117.3,High average)
+(MKJUK15,3512315,48850.0,4885.0,Mid average)
+(WBJBF19,1088419,48490.0,4849.0,Mid average)
+(SMXF18,8619018,47325.0,4732.5,Mid average)
+(VKUZ30,8946230,46853.0,4685.3,Mid average)
+(OERH28,5897028,46568.0,4656.8,Mid average)
+(ISBD36,6045936,46426.0,4642.6,Mid average)
+(GEXV6,309846,46035.0,4603.5,Mid average)
+(KJZY22,5603322,44743.0,4474.3,Mid average)
+(LZGRZ21,7012021,44081.0,4408.1,Mid average)
+(MKSYI29,8969729,43922.0,4392.2,Mid average)
+(THYQA9,300219,43241.0,4324.1,Mid average)
+(IVPF12,3663812,42979.0,4297.9,Mid average)
+(LQVT20,4189120,42567.0,4256.7,Mid average)
+(MFHT40,9193440,42403.0,4240.3,Mid average)
+(QOQL10,4999110,40789.0,4078.9,Low average)
+(AJNZZ37,1050837,40646.0,4064.6,Low average)
+(JZFIT25,4905025,39382.0,3938.2,Low average)
+(ETZB14,6646314,39129.0,3912.9,Low average)

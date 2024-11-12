@@ -1,0 +1,30 @@
+data = LOAD '{data000.txt, data000.txt, data002.txt}' USING PigStorage(',') as (name:chararray, ID:INT, buy1:float, buy2:float, buy3:float, 
+buy4:float, buy5:float, buy6:float, buy7:float, buy8:float, buy9:float, buy10:float, text1:chararray, text2:chararray, 
+text3:chararray, text4hararray, text5chararray);
+DESCRIBE data
+SH echo '********************************************** data  ***********************************';
+
+data1 = FOREACH data GENERATE
+name,
+ID,
+(buy1+buy2+buy3+buy4+buy5+buy6+buy7+buy8+buy9+buy10)/10 as AVG:float;
+
+DESCRIBE data1;
+SH echo '********************************************** data1  ***********************************';
+
+data2 = ORDER data1 BY AVG;
+DESCRIBE data2;
+SH echo '********************************************** data2  ***********************************';
+
+data3 = LIMIT data2 1;
+DESCRIBE data3;
+SH echo '********************************************** data3  ***********************************';
+DUMP data3;
+
+
+
+
+
+
+
+

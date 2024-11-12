@@ -1,0 +1,9 @@
+data: {name: chararray,ID: int,buy1: float,buy2: float,buy3: float,buy4: float,buy5: float,buy6: float,buy7: float,buy8: float,buy9: float,buy10: float,text1: chararray,text2: chararray,text3: chararray,text4hararray: bytearray,text5chararray: bytearray}
+********************************************** data  ***********************************
+data1: {name: chararray,ID: int,AVG: float}
+********************************************** data1  ***********************************
+data2: {name: chararray,ID: int,AVG: float}
+********************************************** data2  ***********************************
+data3: {name: chararray,ID: int,AVG: float}
+********************************************** data3  ***********************************
+(FGFZV31,3531031,6954.3)
